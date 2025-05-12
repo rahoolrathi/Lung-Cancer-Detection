@@ -1,0 +1,10 @@
+tensorflow>=2.15
+torch>=2.0.0
+timm
+matplotlib
+seaborn
+scikit-learn
+pandas
+opencv-python
+tqdm
+huggingface_hub
